@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
     public int hiScore;
     public int lives = 3;
 
+    public bool testVarable;
+
     // UI Variablaes
     public GameObject scoreUI;
     public GameObject hiScoreUI;
