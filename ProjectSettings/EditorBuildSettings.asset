@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MenuLevel.unity
+    guid: efbf608e4a8362a4181d281142a95467
+  - enabled: 0
+    path: Assets/Scenes/MyLevel.unity
+    guid: d8c92354254e67e40b609a1a00d891d9
+  - enabled: 1
     path: Assets/Scenes/MyFlappedLevel.unity
     guid: 7b70acdfa86588740b19481a96c63cce
+  - enabled: 1
+    path: Assets/Scenes/Ballgame.unity
+    guid: c595bdb63db763f4f9bbd9773322b053
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
